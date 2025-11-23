@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.company.payment</groupId>
-    <artifactId>payment-order-center</artifactId>
+    <artifactId>PaymentCenter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>PaymentCenter</name>
@@ -22,7 +22,8 @@
         <developer/>
     </developers>
     <modules>
-        <module>payment-center-common</module>
+        <module>common</module>
+        <module>service</module>
     </modules>
     <scm>
         <connection/>
