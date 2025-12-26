@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("rebase test");
         System.out.println("i am a token");
+        System.out.println("rebase");
     }
 }
